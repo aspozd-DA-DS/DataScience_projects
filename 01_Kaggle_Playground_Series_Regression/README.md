@@ -64,6 +64,7 @@ BPM — ключевой параметр в музыкальной индуст
 ├── `Predicting the Beats-per-Minute of Songs.ipynb` — основной ноутбук с полным анализом  
 ├── `Predicting the Beats-per-Minute of Songs.pdf` — экспорт в PDF  
 └── `README.md` — эта документация
+
 ---
 ## 🚀 Как запустить
 1. Склонировать репозиторий:  
