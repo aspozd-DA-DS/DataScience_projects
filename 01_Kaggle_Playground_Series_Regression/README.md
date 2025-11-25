@@ -23,6 +23,7 @@ BPM — ключевой параметр в музыкальной индуст
 - pandas, numpy
 - matplotlib, seaborn 
 - phik(корреляционный анализ), scipy.stats
+- Feature Engineering: создание взаимодействий, полиномиальных признаков, категоризация
 - scikit‑learn (Linear Regression, Ridge, Lasso, Decision Tree)  
 - LightGBM, XGBoost, CatBoost  
 
