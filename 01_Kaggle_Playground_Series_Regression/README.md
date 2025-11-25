@@ -40,8 +40,7 @@
 ## 🚀 Как запустить
 1. Склонировать репозиторий:  
    ```bash
-   git clone https://github.com/aspozd-DA-DS/DataAnalytics_projects.git
-
+   git clone https://github.com/aspozd-DA-DS/DataScience_projects.git
 2. Перейти в папку проекта:
 
    ```bash
@@ -50,4 +49,4 @@
 3. Запустить ноутбук:
 
    ```bash
-   jupyter notebook BPM-prediction-master.ipynb
+   jupyter notebook Predicting the Beats-per-Minute of Songs.ipynb
