@@ -45,9 +45,9 @@
 2. Перейти в папку проекта:
 
    ```bash
-cd DataAnalytics_projects/02_Kaggle_BPM-prediction-master
+   cd DataAnalytics_projects/01_Kaggle_Playground_Series_Regression
 
 3. Запустить ноутбук:
 
    ```bash
-jupyter notebook BPM-prediction-master.ipynb
+   jupyter notebook BPM-prediction-master.ipynb
