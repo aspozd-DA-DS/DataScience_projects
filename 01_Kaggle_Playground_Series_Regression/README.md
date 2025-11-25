@@ -42,3 +42,12 @@
    ```bash
    git clone https://github.com/aspozd-DA-DS/DataAnalytics_projects.git
 
+2. Перейти в папку проекта:
+
+   ```bash
+cd DataAnalytics_projects/02_Kaggle_BPM-prediction-master
+
+3. Запустить ноутбук:
+
+   ```bash
+jupyter notebook BPM-prediction-master.ipynb
