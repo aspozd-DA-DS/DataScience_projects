@@ -53,6 +53,7 @@
 
    ```bash
    jupyter notebook Binary Classification with a Bank Dataset.ipynb
-
+4. Убедитесь, что у вас настроен Kaggle API для автоматической загрузки данных
+   
 ## 🏷 Topics
 `Data Analysis` `EDA` `Visualization` `Kaggle` `Python` `Machine Learning` `Classification` `Bank Marketing` 
