@@ -63,7 +63,7 @@ BPM — ключевой параметр в музыкальной индуст
 4. Убедитесь, что у вас настроен Kaggle API для автоматической загрузки данных
    
 ## 🏷 Topics
-`Data Analysis` `EDA` `Visualization` `Kaggle` `Python` `Machine Learning` `Regression` `Music Data` `an` `lightgbm` `xgboost` `catboost`
+`Data Analysis` `EDA` `Visualization` `Kaggle` `Python` `Machine Learning` `Regression` `Music Data` `audio-analysis` `lightgbm` `xgboost` `catboost`
 
 
 
