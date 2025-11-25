@@ -50,3 +50,6 @@
 
    ```bash
    jupyter notebook Predicting the Beats-per-Minute of Songs.ipynb
+   
+## 🏷 Topics
+`Data Analysis` `EDA` `Visualization` `Kaggle` `Python` `Machine Learning` `Regression` `Music Data` 
