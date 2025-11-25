@@ -3,7 +3,7 @@
 ## 📂 Портфолио проектов
 | Название проекта | Краткое описание | Стек |
 |------------------|------------------|-------|
-| [ML-модель для прогнозирования BPM треков](01_Kaggle_Playground_Series_Regression) | Регрессия, снижение RMSE на 22% | Python, scikit-learn, LightGBM, XGBoost |
+| [ML-модель для прогнозирования BPM треков](01_Kaggle_Playground_Series_Regression) | Регрессия, снижение RMSE на 22% | Python, pandas, numpy, matplotlib, seaborn, phik, scikit-learn(Linear Regression, Ridge, Lasso, Decision Tree), LightGBM, XGBoost |
 | [Прогнозная модель отклика клиента на депозит](02_Kaggle_Playground_Series_Binary_Classification) | Классификация, ROC-AUC = 0.96 | Python, scikit-learn, CatBoost, LightGBM |
 
 
