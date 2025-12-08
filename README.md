@@ -4,7 +4,7 @@
 | Название проекта | Краткое описание | Стек | Дополнительно |
 |------------------|------------------|-------|-------|
 | [ML-модель для прогнозирования BPM треков](01_Kaggle_Playground_Series_Regression) | Построение и настройка модели регрессии для предсказания темпа музыки по аудио-фичам, снижение RMSE на 22% | Python, pandas, numpy, matplotlib, seaborn, phik, scikit-learn(Linear Regression, Ridge, Lasso, Decision Tree), LightGBM, XGBoost, CatBoost | [Kaggle Playground Series — Season 5, Episode 9](https://www.kaggle.com/competitions/playground-series-s5e9)|
-| [Прогнозная модель отклика клиента на депозит](02_Kaggle_Playground_Series_Binary_Classification) | Решение задачи бинарной классификации для предсказания вероятности отклика клиента, ROC-AUC = 0.96 |  Python, pandas, numpy, matplotlib, seaborn, phik, scikit-learn(Logistic Regression, DummyClassifier), LightGBM, XGBoost, CatBoost | |
+| [Прогнозная модель отклика клиента на депозит](02_Kaggle_Playground_Series_Binary_Classification) | Решение задачи бинарной классификации для предсказания вероятности отклика клиента, ROC-AUC = 0.96 |  Python, pandas, numpy, matplotlib, seaborn, phik, scikit-learn(Logistic Regression, DummyClassifier), LightGBM, XGBoost, CatBoost |[Kaggle Playground Series — Season 5, Episode 8](https://www.kaggle.com/competitions/playground-series-s5e8) |
 
 
 
