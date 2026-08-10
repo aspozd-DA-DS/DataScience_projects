@@ -58,9 +58,12 @@
 
 `02_Kaggle_Playground_Series_Binary_Classification/`
 
-├── `Binary Classification with a Bank Dataset.ipynb` — основной ноутбук с полным анализом  
-├── `Binary Classification with a Bank Dataset.pdf` — экспорт в PDF  
-└── `README.md` — эта документация
+```text
+├── `Binary Classification with a Bank Dataset.ipynb`      — основной ноутбук с полным анализом  
+├── `Binary Classification with a Bank Dataset.pdf`        — экспорт в PDF 
+├── `requirements.txt`                                     — зависимости проекта 
+└── `README.md`                                            — эта документация
+```
 
 ---
 

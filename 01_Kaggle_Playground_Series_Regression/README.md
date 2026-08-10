@@ -63,9 +63,12 @@ BPM — ключевой параметр в музыкальной индуст
 
 `01_Kaggle_Playground_Series_Regression/`
 
-├── `Predicting the Beats-per-Minute of Songs.ipynb` — основной ноутбук с полным анализом  
-├── `Predicting the Beats-per-Minute of Songs.pdf` — экспорт в PDF  
-└── `README.md` — эта документация
+```text
+├── `Predicting the Beats-per-Minute of Songs.ipynb`  — основной ноутбук с полным анализом  
+├── `Predicting the Beats-per-Minute of Songs.pdf`    — экспорт в PDF  
+├── `requirements.txt`                                — зависимости проекта
+└── `README.md`                                       — эта документация
+```
 
 ---
 ## 🚀 Как запустить
