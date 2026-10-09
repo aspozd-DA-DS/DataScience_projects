@@ -75,7 +75,7 @@ BPM — ключевой параметр в музыкальной индуст
 
 ```text
 ├── `Predicting the Beats-per-Minute of Songs.ipynb`  — основной ноутбук с полным анализом  
-├── `Predicting the Beats-per-Minute of Songs.pdf`    — экспорт в PDF  
+├── `Predicting_the_Beats-per-Minute_of_Songs.pdf`    — экспорт в PDF  
 ├── `requirements.txt`                                — зависимости проекта
 └── `README.md`                                       — эта документация
 ```
@@ -175,7 +175,7 @@ The real value of the project is demonstrating skills in EDA, feature engineerin
 
 ```text
 ├── `Predicting the Beats-per-Minute of Songs.ipynb`  — main notebook with full analysis  
-├── `Predicting the Beats-per-Minute of Songs.pdf`    — PDF export  
+├── `Predicting_the_Beats-per-Minute_of_Songs.pdf`    — PDF export  
 ├── `requirements.txt`                                — project dependencies
 └── `README.md`                                       — this documentation
 ```

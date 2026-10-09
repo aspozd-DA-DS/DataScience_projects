@@ -69,8 +69,8 @@
 `02_Kaggle_Playground_Series_Binary_Classification/`
 
 ```text
-├── `Binary Classification with a Bank Dataset.ipynb`      — основной ноутбук с полным анализом  
-├── `Binary Classification with a Bank Dataset.pdf`        — экспорт в PDF 
+├── `Binary_Classification_with_BankDataset.ipynb`      — основной ноутбук с полным анализом  
+├── `Binary_Classification_with_a_BankDataset.pdf`        — экспорт в PDF 
 ├── `requirements.txt`                                     — зависимости проекта 
 └── `README.md`                                            — эта документация
 ```
@@ -91,7 +91,7 @@
 3. Запустить ноутбук:
 
    ```bash
-   jupyter notebook "Binary Classification with a Bank Dataset.ipynb"
+   jupyter notebook "Binary_Classification_with_BankDataset.ipynb.ipynb"
    ```
 4. Убедитесь, что у вас настроен Kaggle API для автоматической загрузки данных
 
@@ -165,8 +165,8 @@ The model can be used in a real bank to optimize marketing campaigns.
 `02_Kaggle_Playground_Series_Binary_Classification/`
 
 ```text
-├── `Binary Classification with a Bank Dataset.ipynb`      — main notebook with full analysis  
-├── `Binary Classification with a Bank Dataset.pdf`        — PDF export 
+├── `Binary_Classification_with_BankDataset.ipynb`      — main notebook with full analysis  
+├── `Binary_Classification_with_a_BankDataset.pdf`        — PDF export 
 ├── `requirements.txt`                                     — project dependencies 
 └── `README.md`                                            — this documentation
 ```
@@ -187,7 +187,7 @@ The model can be used in a real bank to optimize marketing campaigns.
 3. Run the notebook:
 
    ```bash
-   jupyter notebook "Binary Classification with a Bank Dataset.ipynb"
+   jupyter notebook "Binary_Classification_with_BankDataset.ipynb.ipynb"
    ```
 4. Make sure the Kaggle API is configured for automatic data download
 
