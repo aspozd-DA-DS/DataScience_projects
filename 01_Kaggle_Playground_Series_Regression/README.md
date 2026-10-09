@@ -74,6 +74,7 @@ BPM — ключевой параметр в музыкальной индуст
 `01_Kaggle_Playground_Series_Regression/`
 
 ```text
+├── `Dataset_Kaggle_Playground_S5E9/`                 — исходный CSV-файл 
 ├── `Predicting the Beats-per-Minute of Songs.ipynb`  — основной ноутбук с полным анализом  
 ├── `Predicting_the_Beats-per-Minute_of_Songs.pdf`    — экспорт в PDF  
 ├── `requirements.txt`                                — зависимости проекта
@@ -174,6 +175,7 @@ The real value of the project is demonstrating skills in EDA, feature engineerin
 `01_Kaggle_Playground_Series_Regression/`
 
 ```text
+├── `Dataset_Kaggle_Playground_S5E9/`                 — source CSV file  
 ├── `Predicting the Beats-per-Minute of Songs.ipynb`  — main notebook with full analysis  
 ├── `Predicting_the_Beats-per-Minute_of_Songs.pdf`    — PDF export  
 ├── `requirements.txt`                                — project dependencies

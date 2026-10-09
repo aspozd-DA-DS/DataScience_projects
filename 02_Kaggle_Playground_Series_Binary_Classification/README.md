@@ -69,10 +69,11 @@
 `02_Kaggle_Playground_Series_Binary_Classification/`
 
 ```text
-├── `Binary_Classification_with_BankDataset.ipynb`      — основной ноутбук с полным анализом  
-├── `Binary_Classification_with_a_BankDataset.pdf`        — экспорт в PDF 
-├── `requirements.txt`                                     — зависимости проекта 
-└── `README.md`                                            — эта документация
+├── `Dataset_Kaggle_Playground_S5E8/`                 — исходный CSV-файл 
+├── `Binary_Classification_with_BankDataset.ipynb`    — основной ноутбук с полным анализом  
+├── `Binary_Classification_with_a_BankDataset.pdf`    — экспорт в PDF 
+├── `requirements.txt`                                — зависимости проекта 
+└── `README.md`                                       — эта документация
 ```
 
 ---
@@ -165,10 +166,11 @@ The model can be used in a real bank to optimize marketing campaigns.
 `02_Kaggle_Playground_Series_Binary_Classification/`
 
 ```text
-├── `Binary_Classification_with_BankDataset.ipynb`      — main notebook with full analysis  
-├── `Binary_Classification_with_a_BankDataset.pdf`        — PDF export 
-├── `requirements.txt`                                     — project dependencies 
-└── `README.md`                                            — this documentation
+├── `Dataset_Kaggle_Playground_S5E8/`                 — source CSV file  
+├── `Binary_Classification_with_BankDataset.ipynb`    — main notebook with full analysis  
+├── `Binary_Classification_with_a_BankDataset.pdf`    — PDF export 
+├── `requirements.txt`                                — project dependencies 
+└── `README.md`                                       — this documentation
 ```
 
 ---
